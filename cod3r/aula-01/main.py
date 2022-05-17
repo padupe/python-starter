@@ -8,12 +8,16 @@ para a leitura do código.
 
 Para a versão 2 do Python utiliza-se:
 #! /usr/bin/env python2
+ou a simplificada
+#!python2
 
 Para a versão 3 do Python utiliza-se:
 #! /usr/bin/env python3
 
 Se for um script compatível com ambas as versões, use:
 #! usr/bin/env python
+ou a simplificada
+#!python3
 """
 
 print("Bem vindo ao curso da Cod3r!")
