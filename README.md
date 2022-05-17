@@ -11,4 +11,5 @@ Repository dedicated to studies in the [Python](https://www.python.org/) program
 </div>
 
 ## Course Platform
+- [Cod3r](https://www.cod3r.com.br/)
 - [Udemy](https://www.udemy.com/)
