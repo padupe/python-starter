@@ -42,3 +42,6 @@ print(numbers[-1])
 """
 
 print(f"Printando o último elemento de uma lista utilizando [-1] => {numbers[-1]}")
+
+# Verificando se um elemento existe na Lista
+print(f"Verificando se o número 2 existe na lista utilizando '2 in numbers' => {2 in numbers}.")
