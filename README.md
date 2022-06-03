@@ -14,3 +14,14 @@ Repository dedicated to studies in the [Python](https://www.python.org/) program
 - [Cod3r](https://www.cod3r.com.br/)
 - [Fabio Ruicci | YouTube](https://www.youtube.com/c/FabioRuicciCursos)
 - [Udemy](https://www.udemy.com/)
+
+## Automatically create `requirementes.txt`
+1. Install `pipreqs`:
+```
+pip install pipreqs
+```
+
+2. Run:
+```
+pipreqs {/path/to/project}
+```
