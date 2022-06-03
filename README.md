@@ -12,4 +12,5 @@ Repository dedicated to studies in the [Python](https://www.python.org/) program
 
 ## Course Platform
 - [Cod3r](https://www.cod3r.com.br/)
+- [Fabio Ruicci | YouTube](https://www.youtube.com/c/FabioRuicciCursos)
 - [Udemy](https://www.udemy.com/)
